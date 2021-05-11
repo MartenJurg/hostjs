@@ -1,0 +1,8 @@
+[ver:1,total:420,branch:main]
+index.html:165,1620723600:165,m
+.gitignore:90,1620723600:90,m
+vue/index.html:75,1620723600:75,m
+au/index.html:30,1620723600:30,m
+.dockerignore:20,1620723600:20,m
+Dockerfile:20,1620723600:20,m
+nginx.conf:20,1620723600:20,m
